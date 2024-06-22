@@ -18,6 +18,7 @@ To get started with TaskManager, follow these simple steps:
 ### Prerequisites
 
 Ensure you have Flutter installed on your machine. For instructions on how to install Flutter, visit [Flutter's official documentation](https://flutter.dev/docs/get-started/install).
+**NB**: Flutter version: 3.19 recommended
 
 ### Installation
 
